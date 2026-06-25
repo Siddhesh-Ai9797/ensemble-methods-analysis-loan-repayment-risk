@@ -167,8 +167,6 @@ Label flipping simulates real-world credit data corruption: misreported outcomes
 | 25% | **0.8605** | 0.8360 | 0.8422 |
 | **Total Drop** | **0.0073** | **0.0251** | **0.0273** |
 
-![Noise Robustness Plot](../data/noise_robustness.png)
-
 ### Key Findings
 
 - **Random Forest degraded 3.5x slower than both boosting methods** under 25% label corruption
@@ -201,7 +199,6 @@ Label flipping simulates real-world credit data corruption: misreported outcomes
 | 400 | 0.8682 | 0.8640 | 0.8666 |
 | 500 | **0.8683** | **0.8655** | 0.8655 |
 
-![Diminishing Returns Plot](../data/diminishing_returns.png)
 
 ### Key Findings
 
