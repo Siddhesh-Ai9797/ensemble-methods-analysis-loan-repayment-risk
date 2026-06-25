@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sidpa/ML%20Projects/ML_Project_1/notebooks/mlruns/706779059315281814/3ba59871cdef42ffba762d39c1634095/artifacts
+end_time: 1782074421584
+entry_point_name: ''
+experiment_id: '706779059315281814'
+lifecycle_stage: active
+run_id: 3ba59871cdef42ffba762d39c1634095
+run_name: RandomForest_baseline
+run_uuid: 3ba59871cdef42ffba762d39c1634095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782074410363
+status: 3
+tags: []
+user_id: sidpa
